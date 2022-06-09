@@ -1,0 +1,14 @@
+com\labs1904\aws\elasticsearch\springboot\constants\ElasticSearchConstants.class
+com\labs1904\aws\elasticsearch\springboot\handlers\ElasticSearchClientHandler$1.class
+com\labs1904\aws\elasticsearch\springboot\models\Person.class
+com\labs1904\aws\elasticsearch\springboot\util\StringUtils.class
+com\labs1904\aws\elasticsearch\springboot\exceptions\IdNotFoundException.class
+com\labs1904\aws\elasticsearch\springboot\models\Movie.class
+META-INF\spring-configuration-metadata.json
+com\labs1904\aws\elasticsearch\springboot\models\MovieQuery.class
+com\labs1904\aws\elasticsearch\springboot\Application.class
+com\labs1904\aws\elasticsearch\springboot\handlers\AwsResponse.class
+com\labs1904\aws\elasticsearch\springboot\handlers\ElasticSearchClientHandler.class
+com\labs1904\aws\elasticsearch\springboot\services\ElasticSearchService.class
+com\labs1904\aws\elasticsearch\springboot\config\ConfigurationInfo.class
+com\labs1904\aws\elasticsearch\springboot\controllers\ElasticSearchController.class
